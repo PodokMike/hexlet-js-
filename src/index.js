@@ -3,7 +3,7 @@
 // console.log(_.last(["one", "two"]));
 
 // file: src/index.js
-export default (age) => {
+export default () => {
     const birthYear = 2005; // Подсчитываем результат
   
     return birthYear;
