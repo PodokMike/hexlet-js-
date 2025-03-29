@@ -1,1 +1,3 @@
-console.log('Hello Mike');
+import _ from "lodash";
+//console.log('Hello Mike');
+console.log(_.last(['one', 'two']));
